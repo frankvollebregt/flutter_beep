@@ -1,8 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
         android:label="flutter_beep_example"
-        android:icon="@mipmap/ic_launcher"
-        android:extractNativeLibs="true">
+        android:icon="@mipmap/ic_launcher">
         <activity
             android:exported="true"
             android:name=".MainActivity"
